@@ -1,3 +1,5 @@
+// package puppy
+
 package puppy
 
 func Bark() string {
